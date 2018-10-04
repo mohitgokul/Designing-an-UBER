@@ -9,3 +9,6 @@
 + Now convert the degrees to radians as degrees cannot be readed by the Computer Language
 - To calculate the distance between the Customer and the Cab use the Great Circle Distance Formula
 + If the distance between the car and the customer is less than 5 km then the output will display the nearest Cab driver name and user_id
+
+### Formula
+![]
